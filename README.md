@@ -11,3 +11,4 @@
 6. when file committed successfully. then it is ready to push to git hub
 7. use command ```git push -u origin main``` (here -u : you don't need to usee name again and again) 
 8. this is new Line added to config password.
+9. re-checking password    
